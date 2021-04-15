@@ -1,0 +1,4 @@
+# iPaas_interface_taxi_receipt
+调用百度API文字识别
+识别出租车发票
+返回JSON数据类型
